@@ -18,17 +18,19 @@
 <h3>Connect with Me on</h3>
 <p align="center">
 <br/>
-<a href="https://www.balveersingh.in/">
+<a href="https://www.balveersingh.in/" target="_blank">
   <img alt="My WebSite" width="50px" src="https://github.com/BalveerSinghYT/BalveerSingh.in/assets/44961536/a84d7f34-cbf8-4b17-9dfb-0cda2d764d62" />
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/BalveerSinghYT/" target="_blank">
   <img alt="LinkdeIN-BalveerSinghYT" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
 </a>&nbsp;&nbsp;
+ 
 <a href="https://auth.geeksforgeeks.org/user/BalveerSinghYT/" target="_blank">
   <img alt="GeeksForGeeks-BalveerSinghYT" width="50px" src="https://img.icons8.com/color/2x/GeeksforGeeks.png" />
 </a>&nbsp;&nbsp;
+ 
  <a href="https://www.hackerrank.com/balveersinghyt/" target="_blank">
-  <img alt="BalveerSinghYT" width="50px" src="https://github.com/BalveerSinghYT/BalveerSinghYT-1/assets/44961536/9379ffe6-9fa4-406b-b197-efd93fff1500" />
+  <img alt="HackerRank - BalveerSinghYT" width="50px" src="https://github.com/BalveerSinghYT/BalveerSinghYT-1/assets/44961536/9379ffe6-9fa4-406b-b197-efd93fff1500" />
 </a>&nbsp;&nbsp;
 </p>
 
