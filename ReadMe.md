@@ -19,7 +19,7 @@
 <p align="center">
 <br/>
 <a href="https://www.balveersingh.in/" target="_blank">
-  <img alt="My WebSite" width="50px" src="assets/www.png" />
+  <img alt="My WebSite" width="50px" src="assets/WWW.png" />
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/BalveerSinghYT/" target="_blank">
   <img alt="LinkdeIN-BalveerSinghYT" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
