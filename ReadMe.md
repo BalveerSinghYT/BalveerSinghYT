@@ -36,9 +36,9 @@
 
 <div>
   <h3>Github Analysis</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=BalveerSinghYT&show_icons=true&locale=en" alt="BalveerSinghYT" style="padding-right: 10px;" />
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BalveerSinghYT&show_icons=true" alt="BalveerSinghYT"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BalveerSinghYT&layout=compact&exclude_repo=Quick-News,Learning-Django" alt="BalveerSinghYT"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BalveerSinghYT&show_icons=true&locale=en" alt="BalveerSinghYT" style="padding-right: 10px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BalveerSinghYT" alt="BalveerSinghYT" style="padding-left: 10px;" />
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=BalveerSinghYT&show_icons=true&theme=dark" alt="BalveerSinghYT" style="padding-right: 10px;"/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalveerSinghYT&layout=compact&exclude_repo=Quick-News,Learning-Django" alt="BalveerSinghYT" style="padding-left: 10px;"/>
 </div>
 
