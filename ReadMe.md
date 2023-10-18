@@ -11,7 +11,7 @@
 - 📚 Pursuing **Master with specialization in AI & ML**, exploring **Visual SLAM**
 - 👨‍💻 Ex **Software Development Intern @ IIT Bombay**
 - 🚀 Contributed to **[Project UDAAN](https://udaanproject.org/)** - Enabling Translation of Textbooks in Indian Languages.
-- 🏆 Worked on **20+ projects** based on IoT & Automation during undergrad 
+- 🏆 Worked on multiple IoT & Automation projects during undergrad 
 - 💬 Ask me about **Python, C++, IoT, Django, AWS, and Visual Perception.**
 - 📫 How to reach me **balveersinghtanda@gmail.com**
 
