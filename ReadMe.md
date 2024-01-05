@@ -1,4 +1,4 @@
-# <p align="center">Hi👋, I'm [BalveerSinghYT](https://www.linkedin.com/in/BalveerSinghYT/)</p>
+# <p align="center">Hi👋, I'm [Balveer Singh](https://www.linkedin.com/in/BalveerSinghYT/)</p>
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4BF713&background=040000&center=true&vCenter=true&width=435&lines=Mechatronics+Enthusiast+Engineer+%F0%9F%9A%80%F0%9F%A4%96;Pursuing+Master+of+Engineering%3A+AI+%26+ML;Exploring+Visual+SLAM+%F0%9F%93%9A%F0%9F%94%8D" alt="Typing SVG" /></a>
