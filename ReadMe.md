@@ -1,20 +1,22 @@
 # <p align="center">Hi👋, I'm [Balveer Singh](https://www.linkedin.com/in/BalveerSinghYT/)</p>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4BF713&background=040000&center=true&vCenter=true&width=435&lines=Mechatronics+Enthusiast+Engineer+%F0%9F%9A%80%F0%9F%A4%96;Pursuing+Master+of+Engineering%3A+AI+%26+ML;Exploring+Visual+SLAM+%F0%9F%93%9A%F0%9F%94%8D" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4BF713&background=040000&center=true&vCenter=true&width=435&lines=3D+Animation+%26+Blender+Enthusiast+%f0%9f%a7%a8;Background+in+AI%2C+ML+%26+Visual+SLAM+%f0%9f%93%9a%f0%9f%94%8d" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalveerSinghYT&label=Profile%20views&color=dc143c&style=flat" alt="Balveer Singh" /> </p>
 
-- 📚 Pursuing **Master with specialization in AI & ML**, exploring **Visual SLAM**
-- 👨‍💻 Ex **Software Development Intern @ IIT Bombay**
-- 🚀 Contributed to **[Project UDAAN](https://udaanproject.org/)** - Enabling Translation of Textbooks in Indian Languages.
-- 🏆 Worked on multiple IoT & Automation projects during undergrad 
-- 💬 Ask me about **Python, C++, IoT, Django, AWS, and Visual Perception.**
-- 📫 How to reach me **balveersinghtanda@gmail.com**
-
+- 📚 **Master’s Graduate in AI & ML** with a background in **Visual SLAM**
+- 👨‍💻 Currently **freelancing in 3D animation and looking for full-time roles**
+- 🎨 **Creating educational 3D animations** using **Blender**
+- 🌐 **Exploring procedural modeling, rendering optimization & Geometry Nodes**
+- 🧐 Passionate about **Computer Vision, IoT, and Visual Perception**
+- 🛠️ Previously worked as **Software Development Intern @ IIT Bombay**
+- 💡 Contributed to **[Project UDAAN](https://udaanproject.org/)** - Enabling Translation of Textbooks in Indian Languages.
+- 💌 Reach me at **balveersinghtanda@gmail.com**
+  
 <h3>Connect with Me on</h3>
 <p align="center">
 <br/>
@@ -33,10 +35,4 @@
   <img alt="HackerRank - BalveerSinghYT" width="50px" src="assets/hacker_rank.png" />
 </a>&nbsp;&nbsp;
 </p>
-
-<div>
-  <h3>Github Analysis</h3>
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BalveerSinghYT&show_icons=true" alt="BalveerSinghYT"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BalveerSinghYT" alt="BalveerSinghYT" style="padding-left: 10px;" />
-</div>
 
