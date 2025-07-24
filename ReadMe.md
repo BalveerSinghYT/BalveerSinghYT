@@ -1,15 +1,15 @@
 # <p align="center">Hi👋, I'm [Balveer Singh](https://www.linkedin.com/in/BalveerSinghYT/)</p>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4BF713&background=040000&center=true&vCenter=true&width=435&lines=3D+Animation+%26+Blender+Enthusiast+%f0%9f%a7%a8;Background+in+AI%2C+ML+%26+Visual+SLAM+%f0%9f%93%9a%f0%9f%94%8d" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F742&background=000000&center=true&width=480&lines=Research+Scholar+at+IIT+Ropar;Interested+in+Robotics+%26+Computer+Vision" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalveerSinghYT&label=Profile%20views&color=dc143c&style=flat" alt="Balveer Singh" /> </p>
 
+- 🧑‍🎓 **PhD student at School of Artificial Intelligence and Data Engineering, IIT Ropar**
 - 📚 **Master’s Graduate in AI & ML** with a background in **Visual SLAM**
-- 👨‍💻 Currently **freelancing in 3D animation and looking for full-time roles**
 - 🎨 **Creating educational 3D animations** using **Blender**
 - 🌐 **Exploring procedural modeling, rendering optimization & Geometry Nodes**
 - 🧐 Passionate about **Computer Vision, IoT, and Visual Perception**
