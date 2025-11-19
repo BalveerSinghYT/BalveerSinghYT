@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F742&background=000000&center=true&width=480&lines=Research+Scholar+at+IIT+Ropar;Interested+in+Robotics+%26+Computer+Vision" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/BalveerSinghYT/BalveerSinghYT/blob/main/assets/DSCF1920.JPG">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BalveerSinghYT&label=Profile%20views&color=dc143c&style=flat" alt="Balveer Singh" /> </p>
 
